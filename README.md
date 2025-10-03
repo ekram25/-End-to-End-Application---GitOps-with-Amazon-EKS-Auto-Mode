@@ -1,4 +1,4 @@
-# Retail Store Sample App - GitOps with Amazon EKS Auto Mode
+# End-to-End-Application - GitOps with Amazon EKS Auto Mode
  
 ![Banner](./docs/images/banner.png)
  
@@ -13,11 +13,11 @@
   </div>
 
   <strong>
-  <h2>AWS Containers Retail Sample</h2>
+  <h2>AWS Containers Retail Application</h2>
   </strong>
 </div>
 
-This is a sample application designed to illustrate various concepts related to containers on AWS. It presents a sample retail store application including a product catalog, shopping cart and checkout, deployed using modern DevOps practices including GitOps and Infrastructure as Code.
+This is a application designed to illustrate various concepts related to containers on AWS. It presents a sample retail store application including a product catalog, shopping cart and checkout, deployed using modern DevOps practices including GitOps and Infrastructure as Code.
 
 ## Table of Contents
 
